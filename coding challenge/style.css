@@ -1,0 +1,87 @@
+h2 {
+  color: white;
+  margin-left: auto;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
+
+.logolim{
+  display: block;
+  width: 200px;
+  height: 100px;
+  margin:auto;
+  margin-top: 100px;
+  background-repeat: no-repeat;
+}
+
+.textheader{
+  font-size: 25px;
+  text-align: center;
+  color: lightgreen;
+  background-repeat: no-repeat;
+}
+
+.tasti{
+  text-align: center;
+  margin-top: 25px;
+  background-color: lightgreen;
+  margin-left: 150px;
+  margin-right: 150px;
+  color: black;
+  background-repeat: no-repeat;
+  margin-bottom: 20px;
+  padding: 8px;
+}
+
+  body{
+    font-family: 'Mulish', sans-serif;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    text-align: left;
+    color:white;
+    margin:auto;
+    padding:0;
+    background-size: cover;
+  }
+
+.barra1{
+  background-color: orange;
+  margin-right: 700px;
+  border-radius: 6px;
+  margin-top: 10px;
+  padding: 6px;
+}
+
+.barra2{
+  background-color: green;
+  margin-right: 600px;
+  border-radius: 6px;
+  margin-top: 10px;
+  padding: 6px;
+}
+
+.barra3{
+  background-color: red;
+  margin-right: 400px;
+  border-radius: 6px;
+  margin-top: 10px;
+  padding: 6px;
+}
+
+main{
+margin-left: 150px;
+font-size: 13px;
+padding-bottom: 15px;
+}
+
+.tutto{
+  margin-right: 160px;
+  margin-left: 220px;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  position: relative;
+}
+
+p{
+  margin-top: 2px;
+}
